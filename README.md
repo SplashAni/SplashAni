@@ -2,4 +2,4 @@
 
 **ill prob post java proejcts here** 😱
 
-![Profile views](https://gpvc.arturio.dev/SplashAni)
+![](https://komarev.com/ghpvc/?username=SplashAni&color=blue)
